@@ -18,7 +18,9 @@
         <kbd>Linguagens/Languages</kbd>
         <br/>
         <br/>
-         <img title="BootStrap" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+        <img title="HTML" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img title="CSS" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img title="BootStrap" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
         <img title="Python" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img title="PHP" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
         <img title="JavaScript" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
