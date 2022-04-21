@@ -25,9 +25,7 @@
         <img title="Java" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
         <img title="React.js" align="center" alt="Jp-react" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img title="Vue.js" align="center" alt="Jp-vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-        <img title="NODE.JS" align="center" alt="Jp-node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img title="CSharp" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img title="ASP.NET" align="center" alt="Jp-asp.net" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+        <img title="NODE.JS" align="center" alt="Jp-node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">        
     </kbd>
  </div>
  <div align="center"> 
@@ -41,5 +39,5 @@
 <div  style="display: inline_block" align="center">
     <a href="https://www.instagram.com/evandro_moresco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/evandro-moresco-9a778519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.youtube.com/channel/UC2xtQNBCVAaek6lrqp8fOmg target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UC2xtQNBCVAaek6lrqp8fOmg" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
