@@ -1,10 +1,10 @@
 ## Bem-Vindoª! - Welcome!
 
-> Olá meu nome é Evandro, tenho 19 anos e sou apaixonado por tecnologia desde pequeno, comecei essa jornada aos 12 anos, com a ajuda e incentivo do meu primo, que é técnico em informática. Quando criança, gosta de observar ele trabalhando, mexer em computadores, arrumar, montar e programar. Desde então, fui me apaixonando aos poucos, comecei a aprender a parte de manutenção de hardware e depois a programação, desde então venho me aprimorando e aprendendo várias coisas incríveis nesse grande universo tecnológico!
+> Olá, sou o Evandro, tenho 19 anos e moro no interior de São Paulo, atualmente atuo como Desenvolvedor Front End, mas em breve ser Full-Stack. Sou apaixonado por tecnologia desde pequeno, iniciei essa jornada aos 12 anos. Sempre estou em busca de mais conhecimento, saindo da minha zona de conforto, para aprimorar minhas habilidades e entregar sempre o melhor possível.
 
 ## English version!
 
-> Hello my name is Evandro, I'm 19 years old and I've been passionate about technology since I was little, I started this journey at 12, with the help and encouragement of my cousin, who is a computer technician. As a child, he enjoys watching him work, working on computers, tidying up, assembling and programming. Since then, I've been falling in love little by little, I started to learn the hardware maintenance part and then programming, since then I've been improving myself and learning many amazing things in this great technological universe!
+> Hello, I'm Evandro, I'm 19 years old and I live in the interior of São Paulo, currently I work as a Front End Developer, but soon to be Full-Stack. I've been passionate about technology since I was little, I started this journey when I was 12 years old. I'm always looking for more knowledge, stepping out of my comfort zone, to improve my skills and always deliver the best possible.
 
 >[Portifólio/Portfolio](https://mor3sco.github.io/meu-portifolio/)
     
