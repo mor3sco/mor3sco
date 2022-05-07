@@ -1,6 +1,6 @@
 ## Bem-Vindoª! - Welcome!
 
-> Olá, sou o Evandro, tenho 19 anos e moro no interior de São Paulo, atualmente atuo como Desenvolvedor Front End, mas em breve ser Full-Stack. Sou apaixonado por tecnologia desde pequeno, iniciei essa jornada aos 12 anos. Sempre estou em busca de mais conhecimento, saindo da minha zona de conforto, para aprimorar minhas habilidades e entregar sempre o melhor possível.
+> Olá, sou o Evandro, tenho 19 anos e moro no interior de São Paulo, atualmente atuo como Desenvolvedor Front End, mas em breve serei Full-Stack. Sou apaixonado por tecnologia desde pequeno, iniciei essa jornada aos 12 anos. Sempre estou em busca de mais conhecimento, saindo da minha zona de conforto, para aprimorar minhas habilidades e entregar sempre o melhor possível.
 
 ## English version!
 
