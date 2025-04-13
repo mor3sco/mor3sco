@@ -25,7 +25,7 @@
         <img title="Python" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img title="PHP" align="center" alt="Jp-php" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
         <img title="JavaScript" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img title="Java" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+        <img title="TypeScript" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg">
         <img title="React.js" align="center" alt="Jp-react" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img title="Vue.js" align="center" alt="Jp-vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
         <img title="NODE.JS" align="center" alt="Jp-node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">        
