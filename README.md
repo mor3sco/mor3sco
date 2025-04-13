@@ -1,10 +1,10 @@
 ## Bem-Vindoª! - Welcome!
 
-> Profissional autodidata e versátil, especializado em desenvolvimento de software e segurança da informação. Focado em resolver problemas reais com soluções inteligentes e eficientes. Comprometido em gerar valor por onde passo.Sou movido por desafios, tenho facilidade em aprender rápido e transformar conhecimento em prática. Busco sempre evolução, excelência e autonomia, sem abrir mão da ética e do propósito em tudo que faço.
+> Profissional autodidata e versátil, especializado em desenvolvimento de software e segurança da informação. Focado em resolver problemas reais com soluções inteligentes e eficientes. Comprometido em gerar valor por onde passo.Sou movido por desafios, tenho facilidade em aprender rápido e transformar conhecimento em prática. 
 
 ## English version!
 
-> Self-taught and versatile professional, specialized in software development and information security. Focused on solving real-world problems with smart and efficient solutions. Committed to generating value wherever I go. Driven by challenges, I learn quickly and turn knowledge into action. I constantly seek growth, excellence, and autonomy, without compromising ethics and purpose in everything I do.
+> Self-taught and versatile professional, specialized in software development and information security. Focused on solving real-world problems with smart and efficient solutions. Committed to generating value wherever I go. Driven by challenges, I learn quickly and turn knowledge into action. 
 
 
 >[Portifólio/Portfolio](https://mor3sco.github.io/meu-portifolio/)
