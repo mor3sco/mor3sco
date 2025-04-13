@@ -1,10 +1,10 @@
 ## Bem-Vindoª! - Welcome!
 
-> Olá, sou o Evandro, tenho 19 anos e moro no interior de São Paulo, atualmente atuo como Desenvolvedor e Analista de cibersegurança. Sou apaixonado por tecnologia desde pequeno, iniciei essa jornada aos 12 anos. Sempre estou em busca de mais conhecimento, saindo da minha zona de conforto, para aprimorar minhas habilidades e entregar sempre o melhor possível.
+> Profissional autodidata e versátil, especializado em desenvolvimento de software e segurança da informação. Focado em resolver problemas reais com soluções inteligentes e eficientes. Comprometido em gerar valor por onde passo.Sou movido por desafios, tenho facilidade em aprender rápido e transformar conhecimento em prática. Busco sempre evolução, excelência e autonomia, sem abrir mão da ética e do propósito em tudo que faço.
 
 ## English version!
 
-> Hello, I'm Evandro, I'm 19 years old and I live in the interior of São Paulo, currently I work as a Cybersecurity Developer and Analyst. I've been passionate about technology since I was little, I started this journey when I was 12 years old. I'm always looking for more knowledge, stepping out of my comfort zone, to improve my skills and always deliver the best possible.
+> Self-taught and versatile professional, specialized in software development and information security. Focused on solving real-world problems with smart and efficient solutions. Committed to generating value wherever I go. Driven by challenges, I learn quickly and turn knowledge into action. I constantly seek growth, excellence, and autonomy, without compromising ethics and purpose in everything I do.
 
 
 >[Portifólio/Portfolio](https://mor3sco.github.io/meu-portifolio/)
