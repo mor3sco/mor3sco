@@ -37,16 +37,6 @@
         <img title="Docker" align="center" alt="docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img title="Azure" align="center" alt="azure" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
         <img title="Figma" align="center" alt="figma" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
-
-
-
-
-
-
-
-
-    </kbd>
  </div>
  <div align="center"> 
     
