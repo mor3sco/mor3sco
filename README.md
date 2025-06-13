@@ -28,7 +28,25 @@
         <img title="TypeScript" align="center" alt="Jp-js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         <img title="React.js" align="center" alt="Jp-react" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img title="Vue.js" align="center" alt="Jp-vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-        <img title="NODE.JS" align="center" alt="Jp-node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">        
+        <img title="NODE.JS" align="center" alt="Jp-node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+        <img title="GitHub" align="center" alt="github" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img title="Git" align="center" alt="git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img title="PostgreSQL" align="center" alt="postgresql" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img title="MySQL" align="center" alt="mysql" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img title="Figma" align="center" alt="figma" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img title="Docker" align="center" alt="docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img title="AWS" align="center" alt="aws" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+        <img title="Azure" align="center" alt="azure" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+        <img title="Figma" align="center" alt="figma" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+
+
+
+
+
+
+
+
+
     </kbd>
  </div>
  <div align="center"> 
