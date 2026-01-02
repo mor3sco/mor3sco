@@ -1,10 +1,18 @@
 ## Bem-Vindoª! - Welcome!
 
-> Profissional autodidata e versátil, especializado em desenvolvimento de software e segurança da informação. Focado em resolver problemas reais com soluções inteligentes e eficientes. Comprometido em gerar valor por onde passo.Sou movido por desafios, tenho facilidade em aprender rápido e transformar conhecimento em prática. 
+> Full Stack Web Developer & Security Specialist
+
+Desenvolvedor Full Stack com foco em aplicações web modernas e seguras. Experiência prática com JavaScript, TypeScript, React, Node.js, PHP, Python, Java e SQL, integrando desenvolvimento e cibersegurança desde a concepção dos projetos.
+
+Atuo com projetos autorais, freelances e soluções reais, aplicando boas práticas de código, segurança da informação e DevSecOps. 
 
 ## English version!
 
-> Self-taught and versatile professional, specialized in software development and information security. Focused on solving real-world problems with smart and efficient solutions. Committed to generating value wherever I go. Driven by challenges, I learn quickly and turn knowledge into action. 
+> Full Stack Web Developer & Security Specialist
+
+Full Stack Developer focused on modern and secure web applications. Practical experience with JavaScript, TypeScript, React, Node.js, PHP, Python, Java, and SQL, integrating development and cybersecurity from project conception.
+
+I work on original projects, freelance projects, and real-world solutions, applying best practices in coding, information security, and DevSecOps.
 
 
 >[Portifólio/Portfolio](https://mor3sco.github.io/meu-portifolio/)
