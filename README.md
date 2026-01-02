@@ -1,18 +1,17 @@
 ## Bem-Vindoª! - Welcome!
 
-> Full Stack Web Developer & Security Specialist
+> Profissional com mais de 10 anos de experiência prática em tecnologia, atuando no desenvolvimento de software e segurança da informação. Minha trajetória foi construída por meio de projetos autorais, freelances e estudos avançados, sempre focado em resolver problemas reais com soluções eficientes e seguras.
 
-Desenvolvedor Full Stack com foco em aplicações web modernas e seguras. Experiência prática com JavaScript, TypeScript, React, Node.js, PHP, Python, Java e SQL, integrando desenvolvimento e cibersegurança desde a concepção dos projetos.
+Trabalho com JavaScript, TypeScript, React, Node.js, PHP, Python, Java, SQL, HTML e CSS, desenvolvendo aplicações web completas, integrações via APIs REST e soluções orientadas à performance e segurança.
 
-Atuo com projetos autorais, freelances e soluções reais, aplicando boas práticas de código, segurança da informação e DevSecOps. 
+Tenho forte atuação em cibersegurança e DevSecOps, aplicando conceitos como OWASP, análise de vulnerabilidades, Pentest e hardening diretamente no ciclo de desenvolvimento.
+
 
 ## English version!
 
-> Full Stack Web Developer & Security Specialist
+> Full Stack Web Developer with over 10 years of hands-on experience in technology, combining software development and information security. My experience comes from real-world projects, freelance work, and continuous learning, always focused on building efficient and secure solutions.
 
-Full Stack Developer focused on modern and secure web applications. Practical experience with JavaScript, TypeScript, React, Node.js, PHP, Python, Java, and SQL, integrating development and cybersecurity from project conception.
-
-I work on original projects, freelance projects, and real-world solutions, applying best practices in coding, information security, and DevSecOps.
+I work with JavaScript, TypeScript, React, Node.js, PHP, Python, Java, SQL, HTML, and CSS, developing full stack web applications, REST APIs, and secure systems using DevSecOps best practices.
 
 
 >[Portifólio/Portfolio](https://mor3sco.github.io/meu-portifolio/)
