@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Evandro Moresco, tenho 22 anos e sou do interior do estado de São Paulo. Sou desenvolvedor Full-Stack e Analista em Cibersegurança. Sou apaixonado por tecnologia desde os meus 12 anos, tenho perfil autodita, gosto muito de aprender coisas novas e me desenvolver cada vez mais, tenho uma vasta experiência na área de tecnoliga, tanto na programação, segurança e T.I no geral. Atualmente, estou cursando Engenharia de Software pela UNICESUMAR.
+Me chamo Evandro Moresco, tenho 22 anos e sou do interior do estado de São Paulo. Sou desenvolvedor Full-Stack e Analista em Cibersegurança. Sou apaixonado por tecnologia desde os meus 12 anos, tenho perfil autodidata, gosto muito de aprender coisas novas e me desenvolver cada vez mais, tenho uma vasta experiência na área de tecnoliga, tanto na programação, segurança e T.I no geral. Atualmente, estou cursando Engenharia de Software pela UNICESUMAR.
 
 ###
 
