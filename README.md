@@ -16,6 +16,9 @@
 
 ### 🚀 Sobre mim
 
+Sou desenvolvedor Full-Stack e Analista de Cibersegurança com mais de 10 anos de vivência na área de T.I — passando por manutenção, redes, servidores, infraestrutura e segurança da informação antes de me aprofundar no desenvolvimento de software. Essa bagagem técnica me dá uma visão diferenciada: desenvolvo aplicações já pensando em segurança desde a arquitetura, não como um detalhe final.
+Apaixonado por tecnologia desde os 12 anos, sou autodidata por natureza e acredito que o melhor desenvolvedor é aquele que entende o sistema como um todo — do código à infraestrutura, da aplicação à ameaça. Atualmente cursando Engenharia de Software.
+
 - 🔭 Trabalhando em projetos de **SaaS, DevSecOps e segurança de aplicações**
 - 🌱 Aprofundando: **OWASP Top 10 · Docker avançado · DevSecOps**
 - 💼 Disponível para vagas **CLT/PJ remotas** 
