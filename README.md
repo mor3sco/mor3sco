@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mor3sco0&theme=holi" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mor3sco0&theme=holi" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=mor3sco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> 
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mor3sco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 ---
@@ -81,10 +81,11 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Oggi Sec](https://oggisec.com) | Empresa de dev e cibersegurança | Full Stack · Security |
-| AgendaKi | SaaS de agendamento | React · Node.js · MySQL |
+| [Oggi Sec](https://oggisec.com) | Empresa de cibersegurança e Gestão de T.I | Full Stack · Security ·TI |
+| Reconhecimento facial | Reconhecimento facial por câmeras | Python |
+| AgendaKi | SaaS de agendamento | TypeScript · React · Node.js · Supabase |
 | WebScanGuard | Análise de segurança web | Python · OWASP |
-| Sistema Lanchonete | Cardápio digital + rotas de entrega | PHP · JS · MySQL |
+| Sistema Lanchonete | Cardápio digital + rotas de entrega | HTML&CSS · PHP · JS · MySQL |
 
 ---
 
