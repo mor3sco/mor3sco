@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/evandro-moresco"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://oggisec.com"><img src="https://img.shields.io/badge/OggiSec-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://instagram.com/evandro_moresco"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
