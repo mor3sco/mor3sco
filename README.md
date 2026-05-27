@@ -1,9 +1,9 @@
 <h1 align="center">Evandro Moresco</h1>
-<h3 align="center">Desenvolvedor Full Stack & Analista de Cibersegurança · Remoto</h3>
+<h3 align="center">Desenvolvedor Full Stack & Analista de Cibersegurança</h3>
 
 <p align="center">
   Construo aplicações web seguras e escaláveis — com visão de dev <strong>e</strong> de segurança desde a arquitetura.<br/>
-  Fundador da <a href="https://oggisec.com">Oggi Sec</a> · Ex-Exército Brasileiro (Linux em infraestrutura crítica) · Engenharia de Software – UNICESUMAR
+  Fundador da <a href="https://oggisec.com">Oggi Sec</a> · Militar do Exército Brasileiro (Linux em infraestrutura crítica) · Engenharia de Software
 </p>
 
 <p align="center">
