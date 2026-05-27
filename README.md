@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mor3sco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mor3sco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mor3sco0&theme=holi" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mor3sco0&theme=holi" />
 </p>
 
 ---
