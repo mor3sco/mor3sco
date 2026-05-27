@@ -18,7 +18,7 @@
 
 - 🔭 Trabalhando em projetos de **SaaS, DevSecOps e segurança de aplicações**
 - 🌱 Aprofundando: **OWASP Top 10 · Docker avançado · DevSecOps**
-- 💼 Disponível para vagas **CLT remotas** como Desenvolvedor Full Stack
+- 💼 Disponível para vagas **CLT/PJ remotas** 
 - 🛡️ Diferencial: desenvolvo com **segurança embutida** — não como afterthought
 - ⚡ Autodidata desde os 12 anos, apaixonado por tecnologia de ponta a ponta
 
