@@ -1,4 +1,4 @@
-<h1 align="center">Evandro Moresco</h1>
+<h1 align="center">👨🏾‍💻 Evandro Moresco 👨🏾‍💻</h1>
 <h3 align="center">Desenvolvedor Full Stack & Analista de Cibersegurança</h3>
 
 <p align="center">
