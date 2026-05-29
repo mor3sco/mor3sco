@@ -75,13 +75,13 @@ Apaixonado por tecnologia desde os 12 anos, sou autodidata por natureza e acredi
 <p>
   <img 
     align="left" 
-    width="48%"
+    height="180"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mor3sco&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
   <img 
-    align="left" 
-    height="200"
+    align="center" 
+    height="180"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mor3sco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
